@@ -1,12 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
-#!/usr/bin/env python
-# coding: utf-8
-
 import sys
 
 sys.path.append('/dss/dsshome1/lxc0C/ge32luv/myenv/lib/python3.9/site-packages/')
